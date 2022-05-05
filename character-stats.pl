@@ -323,7 +323,7 @@ foreach my $type (@sorted_types) {
       $rank_f, "\t",
       $characters->{$type}->{'freq'}, "\t",
       sprintf( "%.4f", $characters->{$type}->{'freq'} / $wc ), "\t",
-      $characters->{$type}->{'prons'}, "\t";
+      $characters->{$type}->{'prons'};
 
     # not output, just using the cycle to prepare @sorted_tokens and
     # $radical_freq
