@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CurrentWorkingDirectory</key>
+	<string>/Users/stranak/Library/CloudStorage/OneDrive-UniverzitaKarlova/sinologie/rozbory</string>
+	<key>WorksheetContents</key>
+	<string>cd /Users/stranak/Library/CloudStorage/OneDrive-UniverzitaKarlova/sinologie/rozbory
+pwd
+/Users/stranak/Library/CloudStorage/OneDrive-UniverzitaKarlova/sinologie/rozbory
+
+#počet znaků TOKEN
+cat Ajtz.txt | perl -C -nlE'@lineChars = split //; foreach my $char (@lineChars){  if ($char =~ /\w/){$wc++} }; END{say "Letters: $wc"}'
+Letters: 1184
+cat Aftz.txt | perl -C -nlE'@lineChars = split //; foreach my $char (@lineChars){  if ($char =~ /\w/){$wc++} }; END{say "Letters: $wc"}'
+Letters: 1184
+
+#počet znaků TYPE
+cat Ajtz.txt | perl -C -nlE'@lineChars = split //; foreach my $char (@lineChars){  if ($char =~ /\w/){$wc++; $freq{"$char"}++} }; END{$unique = keys %freq; say "Letters: $wc, unique: $unique"}'
+Letters: 1184, unique: 388
+cat Aftz.txt | perl -C -nlE'@lineChars = split //; foreach my $char (@lineChars){  if ($char =~ /\w/){$wc++; $freq{"$char"}++} }; END{$unique = keys %freq; say "Letters: $wc, unique: $unique"}'
+Letters: 1184, unique: 389
+
+#TTR: poměr TOKEN vůči TYPE
+#frekvenční seznam znaků seřazený podle ranku s vyčíslenou frekvencí (absolutně a relativně)
+#průměrný počet tahů TOKEN
+#mediánový počet tahů TOKEN
+#průměrný počet tahů TYPE
+#mediánový počet tahů TYPE
+#vzájemné poměry strukturních typů TOKEN
+#vzájemné poměry strukturních typů TYPE
+#počet radikálů TOKEN
+#počet radikálů TYPE
+#počet fonetik TOKEN
+#počet fonetik TYPE
+#frekvenční seznam radikálů seřazený podle ranku s vyčíslenou frekvencí (absolutně a relativně) TOKEN
+#frekvenční seznam radikálů seřazený podle ranku s vyčíslenou frekvencí (absolutně a relativně) TYPE
+#frekvenční seznam fonetik seřazený podle ranku s vyčíslenou frekvencí (absolutně a relativně) TOKEN
+#frekvenční seznam fonetik seřazený podle ranku s vyčíslenou frekvencí (absolutně a relativně) TYPE
+#procentní zastoupení znaků s různými počty výslovnosti (1-5) TOKEN
+#procentní zastoupení znaků s různými počty výslovnosti (1-5) TYPE</string>
+</dict>
+</plist>

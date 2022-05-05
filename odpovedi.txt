@@ -1,0 +1,9 @@
+NOTES:
+
+Kangxi radikály z https://en.wikipedia.org/wiki/Kangxi_radical
+- syntax Wikimedia Wiki
+- takto do čisté 2sloupcové tabulky `číslo <tab> radikál`:
+perl -C -nE 'chomp; print $1, $2 if /<big>{{lang\|zh-Hant\|(\w)|\[\[Radical (\d+)/' <kangxi-rads.wiki | perl -C -plE' s/(\D)(\d+)/\1\n\2\t/g ' >kangxi.tab
+- nutno ručně přidat tab na první řádek, nestojí za úpravu programu
+
+

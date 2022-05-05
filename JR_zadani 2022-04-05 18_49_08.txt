@@ -1,0 +1,33 @@
+1. (3 osoby)
+
+a) text ve zjednodušených znacích (buď A, anebo B)
+b) týž text ve složitých znacích (buď A, anebo B)
+
+.počet znaků TOKEN
+.počet znaků TYPE
+.TTR: poměr TOKEN vůči TYPE
+.frekvenční seznam znaků seřazený podle ranku s vyčíslenou frekvencí (absolutně a relativně)
+.průměrný počet tahů TOKEN
+.mediánový počet tahů TOKEN
+.průměrný počet tahů TYPE
+.mediánový počet tahů TYPE
+
+*vzájemné poměry strukturních typů TOKEN
+*vzájemné poměry strukturních typů TYPE
+
+.počet radikálů TOKEN
+.počet radikálů TYPE
+??? Každá znak má z definice radikál. Libovolný počet jeho výskytů nic nemění.
+Počet pro tokeny = počet pro types.
+
+*počet fonetik TOKEN
+*počet fonetik TYPE
+
+.frekvenční seznam radikálů seřazený podle ranku s vyčíslenou frekvencí (absolutně a relativně) TOKEN
+.frekvenční seznam radikálů seřazený podle ranku s vyčíslenou frekvencí (absolutně a relativně) TYPE
+
+*frekvenční seznam fonetik seřazený podle ranku s vyčíslenou frekvencí (absolutně a relativně) TOKEN
+*frekvenční seznam fonetik seřazený podle ranku s vyčíslenou frekvencí (absolutně a relativně) TYPE
+
+procentní zastoupení znaků s různými počty výslovnosti (1-5) TOKEN
+procentní zastoupení znaků s různými počty výslovnosti (1-5) TYPE

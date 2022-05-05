@@ -1,0 +1,2582 @@
+==Table of radicals==
+{| class="wikitable sortable collapsible"
+!No.
+!class="unsortable"|Radical (variants)
+!Stroke count
+! class="unsortable" |Meaning
+![[Pīnyīn]]
+![[Hán-Việt]]
+![[Hiragana]]-[[Romanization of Japanese|Romaji]]
+![[Hangul]]-[[Romanization of Korean|Romaja]]
+!Frequency
+!class="unsortable"|[[Simplified Chinese characters|Simplified]]
+!class="unsortable"|Examples
+|----
+|style="text-align:right"|[[Radical 1|1]]
+|'''<big>{{lang|zh-Hant|一}}</big>'''
+|1
+|one
+|yī
+|nhất
+|{{lang|ja|いち}} / ichi
+|{{lang|ko|한일}} / hanil
+|42
+|
+|{{lang|zh-Hant|王、丁、七、三}}
+|----
+|style="text-align:right"|[[Radical 2|2]]
+|'''<big>{{lang|zh-Hant|丨}}</big>'''
+|1
+|line
+|gǔn
+|cổn
+|{{lang|ja|ぼう}} / bō
+|{{lang|ko|뚫을곤}} / ddulheulgon
+|21
+|
+|{{lang|zh-Hant|十、中、串、丰}}
+|----
+|style="text-align:right"|[[Radical 3|3]]
+|'''<big>{{lang|zh-Hant|丶}}</big>'''
+|1
+|dot
+|zhǔ
+|chủ
+|{{lang|ja|てん}} / ten
+|{{lang|ko|점주}} / jeomju
+|10
+|
+|{{lang|zh-Hant|丸、凡、丹、户}}
+|----
+|style="text-align:right"|[[Radical 4|4]]
+|'''<big>{{lang|zh-Hant|丿}}<br/>({{lang|zh|乀、⺄}})</big>'''
+|1
+|slash
+|piě
+|phiệt
+|{{lang|ja|の}} / no
+|{{lang|ko|삐침별}} / bbichimbyeol
+|33
+|
+|{{lang|zh-Hant|乂、乃、久、八}}
+|----
+|style="text-align:right"|[[Radical 5|5]]
+|'''<big>{{lang|zh-Hant|乙}}<br/>({{lang|zh|乚、乛}})</big>'''
+|1
+|second
+|yǐ
+|ất
+|{{lang|ja|おつ}} / otsu
+|{{lang|ko|새을}} / saeeul
+|42
+|
+|{{lang|zh-Hant|九、乞、也}}
+|----
+|style="text-align:right"|[[Radical 6|6]]
+|'''<big>{{lang|zh-Hant|亅}}</big>'''
+|1
+|hook
+|jué
+|quyết
+|{{lang|ja|はねぼう}} / hanebō
+|{{lang|ko|갈고리궐}} / galgorigweol
+|19
+|
+|{{lang|zh-Hant|了、矛、事}}
+|----
+|style="text-align:right"|[[Radical 7|7]]
+|'''<big>{{lang|zh-Hant|二}}</big>'''
+|2
+|two
+|èr
+|nhị
+|{{lang|ja|ふた}} / futa
+|{{lang|ko|두이}} / dui
+|29
+|
+|{{lang|zh-Hant|貳、于、云、些}}
+|----
+|style="text-align:right"|[[Radical 8|8]]
+|'''<big>{{lang|zh-Hant|亠}}</big>'''
+|2
+|lid
+|tóu
+|đầu
+|{{lang|ja|なべぶた}} / nabebuta
+|{{lang|ko|돼지해머리}} / dwaejihaemeori
+|38
+|
+|{{lang|zh-Hant|方、亡、亢、交}}
+|----
+|style="text-align:right"|[[Radical 9|9]]
+|'''<big>{{lang|zh-Hant|人}}<br/>({{lang|zh|亻}})</big>'''
+|2
+|man
+|rén
+|nhân (nhân đứng)
+|{{lang|ja|ひと}} / hito
+|{{lang|ko|사람인 (변)}} / saramin (byeon)
+|794
+|
+|{{lang|zh-Hant|你、什、仁、仇}}
+|----
+|style="text-align:right"|[[Radical 10|10]]
+|'''<big>{{lang|zh-Hant|儿}}</big>'''
+|2
+|son, legs
+|ér
+|nhân (nhân đi)
+|{{lang|ja|にんにょう}} / ninnyō
+|{{lang|ko|어진사람인발}} / eojinsaraminbal
+|52
+||(pr. {{lang|zh|兒}})
+|{{lang|zh-Hant|兒、兀、允、元}}
+|----
+|style="text-align:right"|[[Radical 11|11]]
+|'''<big>{{lang|zh-Hant|入}}</big>'''
+|2
+|enter
+|rù
+|nhập
+|{{lang|ja|いる}} / iru
+|{{lang|ko|들입}} / deurip
+|28
+|
+|{{lang|zh-Hant|內、全、兩、汆}}
+|----
+|style="text-align:right"|[[Radical 12|12]]
+|'''<big>{{lang|zh-Hant|八}}<br/>({{lang|zh|丷}})</big>'''
+|2
+|eight
+|bā
+|bát
+|{{lang|ja|はちがしら}} / hachigashira
+|{{lang|ko|여덟팔}} / yeodeolbpal
+|44
+|
+|{{lang|zh-Hant|公、六、兮、穴}}
+|----
+|style="text-align:right"|[[Radical 13|13]]
+|'''<big>{{lang|zh-Hant|冂}}</big>'''
+|2
+|wide
+|jiōng
+|quynh<br>khuynh
+|{{lang|ja|まきがまえ}} / makigamae
+|{{lang|ko|멀경몸}} / meolgyeongmom
+|50
+|
+|{{lang|zh-Hant|冇、冊、冉、肉}}
+|----
+|style="text-align:right"|[[Radical 14|14]]
+|'''<big>{{lang|zh-Hant|冖}}</big>'''
+|2
+|cloth cover
+|mì
+|mịch
+|{{lang|ja|わかんむり}} / wakammuri
+|{{lang|ko|민갓머리}} / mingatmeori
+|30
+|
+|{{lang|zh-Hant|冗、冠、冥、運}}
+|----
+|style="text-align:right"|[[Radical 15|15]]
+|'''<big>{{lang|zh-Hant|冫}}</big>'''
+|2
+|ice
+|bīng
+|băng
+|{{lang|ja|にすい}} / nisui
+|{{lang|ko|이수변}} / isubyeon
+|115
+|
+|{{lang|zh-Hant|冬、冰、冶、凉}}
+|----
+|style="text-align:right"|[[Radical 16|16]]
+|'''<big>{{lang|zh-Hant|几}}</big>'''
+|2
+|table
+|jī
+|kỷ
+|{{lang|ja|つくえ}} / tsukue
+|{{lang|ko|안석궤}} / anseokgwe
+|38
+|
+|{{lang|zh-Hant|風、殳、凡、凱}}
+|----
+|style="text-align:right"|[[Radical 17|17]]
+|'''<big>{{lang|zh-Hant|凵}}</big>'''
+|2
+|receptacle
+|kǎn
+|khảm
+|{{lang|ja|うけばこ}} / ukebako
+|{{lang|ko|위튼입구몸}} / witeunipgumom
+|23
+|
+|{{lang|zh-Hant|凶、凸、凹、齒}}
+|----
+|style="text-align:right"|[[Radical 18|18]]
+|'''<big>{{lang|zh-Hant|刀}}<br/>({{lang|zh|刂、⺈}})</big>'''
+|2
+|knife
+|dāo
+|đao
+|{{lang|ja|かたな}} / katana
+|{{lang|ko|(선) 칼도 (방)}} / (seon) kaldo (bang)
+|377
+|
+|{{lang|zh-Hant|刁、解、分、劍}}
+|----
+|style="text-align:right"|[[Radical 19|19]]
+|'''<big>{{lang|zh-Hant|力}}</big>'''
+|2
+|power
+|lì
+|lực
+|{{lang|ja|ちから}} / chikara
+|{{lang|ko|힘력}} / himryeok
+|163
+|
+|{{lang|zh-Hant|加、功、劣、男}}
+|----
+|style="text-align:right"|[[Radical 20|20]]
+|'''<big>{{lang|zh-Hant|勹}}</big>'''
+|2
+|wrap
+|bāo
+|bao
+|{{lang|ja|つつみがまえ}} / tsutsumigamae
+|{{lang|ko|쌀포몸}} / ssalpomom
+|64
+|
+|{{lang|zh-Hant|包、勺、勻、勾}}
+|----
+|style="text-align:right"|[[Radical 21|21]]
+|'''<big>{{lang|zh-Hant|匕}}</big>'''
+|2
+|spoon
+|bǐ
+|chủy
+|{{lang|ja|さじのひ}} / sajinohi
+|{{lang|ko|비수비}} / bisubi
+|19
+|
+|{{lang|zh-Hant|化、北、匙、比}}
+|----
+|style="text-align:right"|[[Radical 22|22]]
+|'''<big>{{lang|zh-Hant|匚}}</big>'''
+|2
+|box
+|fāng
+|phương
+|{{lang|ja|はこがまえ}} / hakogamae
+|{{lang|ko|튼입구몸}} / teunipgumom
+|64
+|
+|{{lang|zh-Hant|匿、區、巨、匠}}
+|----
+|style="text-align:right"|[[Radical 23|23]]
+|'''<big>{{lang|zh-Hant|匸}}</big>'''
+|2
+|hiding enclosure
+|xǐ/xì
+|hệ
+|{{lang|ja|かくしがまえ}} / kakushigamae
+|{{lang|ko|감출혜몸}} / gamchulhyemom
+|17
+|
+|{{lang|zh-Hant|亡、匹、匼、匽}}
+|----
+|style="text-align:right"|[[Radical 24|24]]
+|'''<big>{{lang|zh-Hant|十}}</big>'''
+|2
+|ten
+|shí
+|thập
+|{{lang|ja|じゅう}} / jū
+|{{lang|ko|열십}} / yeolsip
+|55
+|
+|{{lang|zh-Hant|千、木、卅、升}}
+|----
+|style="text-align:right"|[[Radical 25|25]]
+|'''<big>{{lang|zh-Hant|卜}}</big>'''
+|2
+|divination
+|bǔ
+|bốc
+|{{lang|ja|ぼくのと}} / bokunoto
+|{{lang|ko|점복}} / jeombok
+|45
+|
+|{{lang|zh-Hant|下、上、卡、占}}
+|----
+|style="text-align:right"|[[Radical 26|26]]
+|'''<big>{{lang|zh-Hant|卩}}<br/>({{lang|zh|㔾}})</big>'''
+|2
+|seal (device)
+|jié
+|tiết
+|{{lang|ja|ふしづくり}} / fushizukuri
+|{{lang|ko|병부절}} / byeongbujeol
+|40
+|
+|{{lang|zh-Hant|即、卬、卷、夗}}
+|----
+|style="text-align:right"|[[Radical 27|27]]
+|'''<big>{{lang|zh-Hant|厂}}</big>'''
+|2
+|cliff
+|hǎn<ref>{{cite web|url=http://stroke-order.learningweb.moe.edu.tw/advExplain2.do?big5=ADEC|title=Kangxi radical-stroke order|publisher=Ministry of Education, R.O.C|language=zh|access-date=2019-07-10}}</ref>
+|hán
+|{{lang|ja|がんだれ}} / gandare
+|{{lang|ko|민엄호}} / mineomho
+|129
+|(pr. {{lang|zh|廠}})
+|{{lang|zh-Hant|厄、原、厚、厰}}
+|----
+|style="text-align:right"|[[Radical 28|28]]
+|'''<big>{{lang|zh-Hant|厶}}</big>'''
+|2
+|private
+|sī
+|tư (khư)
+|{{lang|ja|む}} / mu
+|{{lang|ko|마늘모}} / maneulmo
+|40
+|
+|{{lang|zh-Hant|台、公、去、參、}}
+|----
+|style="text-align:right"|[[Radical 29|29]]
+|'''<big>{{lang|zh-Hant|又}}</big>'''
+|2
+|again
+|yòu
+|hựu
+|{{lang|ja|また}} / mata
+|{{lang|ko|또우}} / ddou
+|91
+|
+|{{lang|zh-Hant|叉、及、友、取}}
+|----
+|style="text-align:right"|[[Radical 30|30]]
+|'''<big>{{lang|zh-Hant|口}}</big>'''
+|3
+|mouth
+|kǒu
+|khẩu
+|{{lang|ja|くち}} / kuchi
+|{{lang|ko|입구}} / ipgu
+|1,146
+|
+|{{lang|zh-Hant|哎、古、只、品}}
+|----
+|style="text-align:right"|[[Radical 31|31]]
+|'''<big>{{lang|zh-Hant|囗}}</big>'''
+|3
+|enclosure
+|wéi
+|vi
+|{{lang|ja|くにがまえ}} / kunigamae
+|{{lang|ko|큰입구 (몸)}} / keunipgu (mom)
+|118
+|
+|{{lang|zh-Hant|囚、四、國、圍}}
+|----
+|style="text-align:right"|[[Radical 32|32]]
+|'''<big>{{lang|zh-Hant|土}}</big>'''
+|3
+|earth
+|tǔ
+|thổ
+|{{lang|ja|つち}} / tsuchi
+|{{lang|ko|흙토}} / heulkto
+|580
+|
+|{{lang|zh-Hant|地、圣、圭、堯}}
+|----
+|style="text-align:right"|[[Radical 33|33]]
+|'''<big>{{lang|zh-Hant|士}}</big>'''
+|3
+|scholar
+|shì
+|sĩ
+|{{lang|ja|さむらい}} / samurai
+|{{lang|ko|선비사}} / seonbisa
+|24
+|
+|{{lang|zh-Hant|壬、喜、時、壽}}
+|----
+|style="text-align:right"|[[Radical 34|34]]
+|'''<big>{{lang|zh-Hant|夂}}</big>'''
+|3
+|go
+|zhǐ
+|trĩ (truy)
+|{{lang|ja|ふゆがしら}} / fuyugashira
+|{{lang|ko|뒤져올치}} / dwijyeoolchi
+|11
+|
+|{{lang|zh-Hant|各、冬、夆、愛}}
+|----
+|style="text-align:right"|[[Radical 35|35]]
+|'''<big>{{lang|zh-Hant|夊}}</big>'''
+|3
+|go slowly
+|suī
+|tuy
+|{{lang|ja|すいにょう}} / suinyō
+|{{lang|ko|천천히걸을쇠발}} / cheoncheonhigeoreulsoebal
+|23
+|
+|{{lang|zh-Hant|夌、复、夏}}
+|----
+|style="text-align:right"|[[Radical 36|36]]
+|'''<big>{{lang|zh-Hant|夕}}</big>'''
+|3
+|evening
+|xī
+|tịch
+|{{lang|ja|ゆうべ}} / yūbe
+|{{lang|ko|저녁석}} / jeonyeokseok
+|34
+|
+|{{lang|zh-Hant|外、夗、多、岁}}
+|----
+|style="text-align:right"|[[Radical 37|37]]
+|'''<big>{{lang|zh-Hant|大}}</big>'''
+|3
+|big
+|dà
+|đại
+|{{lang|ja|だい}} / dai
+|{{lang|ko|큰대}} / keundae
+|132
+|
+|{{lang|zh-Hant|太、天、夭、夯}}
+|----
+|style="text-align:right"|[[Radical 38|38]]
+|'''<big>{{lang|zh-Hant|女}}</big>'''
+|3
+|woman
+|nǚ
+|nữ
+|{{lang|ja|おんな}} / onna
+|{{lang|ko|계집녀}} / gyejipnyeo
+|681
+|
+|{{lang|zh-Hant|妳、婆、奶、如}}
+|----
+|style="text-align:right"|[[Radical 39|39]]
+|'''<big>{{lang|zh-Hant|子}}</big>'''
+|3
+|child
+|zǐ
+|tử
+|{{lang|ja|こ}} / ko
+|{{lang|ko|아들자}} / adeulja
+|83
+|
+|{{lang|zh-Hant|孩、學、孔、仔}}
+|----
+|style="text-align:right"|[[Radical 40|40]]
+|'''<big>{{lang|zh-Hant|宀}}</big>'''
+|3
+|roof
+|mián
+|miên
+|{{lang|ja|うかんむり}} / ukammuri
+|{{lang|ko|갓머리}} / gatmeori
+|246
+|
+|{{lang|zh-Hant|家、安、寧、它}}
+|----
+|style="text-align:right"|[[Radical 41|41]]
+|'''<big>{{lang|zh-Hant|寸}}</big>'''
+|3
+|inch
+|cùn
+|thốn
+|{{lang|ja|すん}} / sun
+|{{lang|ko|마디촌}} / madichon
+|40
+|
+|{{lang|zh-Hant|村、寺、封、射}}
+|----
+|style="text-align:right"|[[Radical 42|42]]
+|'''<big>{{lang|zh-Hant|小}}<br/>({{lang|zh|⺌、⺍}})</big>'''
+|3
+|small
+|xiǎo
+|tiểu
+|{{lang|ja|しょう}} / shō
+|{{lang|ko|작을소}} / jageulso
+|41
+|
+|{{lang|zh-Hant|少、尖、當、栄}}
+|----
+|style="text-align:right"|[[Radical 43|43]]
+|'''<big>{{lang|zh-Hant|尢}}<br/>({{lang|zh|尣}})</big>'''
+|3
+|lame
+|wāng
+|uông
+|{{lang|ja|まげあし}} / mageashi
+|{{lang|ko|절름발이왕}} / jeolleumbariwang
+|66
+|
+|{{lang|zh-Hant|尤、尷、尬、尩}}
+|----
+|style="text-align:right"|[[Radical 44|44]]
+|'''<big>{{lang|zh-Hant|尸}}</big>'''
+|3
+|corpse
+|shī
+|thi
+|{{lang|ja|しかばね}} / shikabane
+|{{lang|ko|주검시엄}} / jugeomsieom
+|148
+|(pr. {{lang|zh|屍}})
+|{{lang|zh-Hant|屍、尺、尼、尻}}
+|----
+|style="text-align:right"|[[Radical 45|45]]
+|'''<big>{{lang|zh-Hant|屮}}</big>'''
+|3
+|sprout
+|chè
+|triệt
+|{{lang|ja|てつ}} / tetsu
+|{{lang|ko|왼손좌}} / oensonjwa
+|38
+|
+|{{lang|zh-Hant|艸、屯、屰、頓}}
+|----
+|style="text-align:right"|[[Radical 46|46]]
+|'''<big>{{lang|zh-Hant|山}}</big>'''
+|3
+|mountain
+|shān
+|sơn
+|{{lang|ja|やま}} / yama
+|{{lang|ko|뫼산}} / moesan
+|636
+|
+|{{lang|zh-Hant|嵗、密、峰、幽}}
+|----
+|style="text-align:right"|[[Radical 47|47]]
+|'''<big>{{lang|zh-Hant|巛}}<br/>({{lang|zh|川}})</big>'''
+|3
+|river
+|chuān
+|xuyên
+|{{lang|ja|まがりがわ}} / magarigawa
+|{{lang|ko|개미허리 (내천)}} / gaemiheori (naecheon)
+|26
+|
+|{{lang|zh-Hant|川、州、順、災}}
+|----
+|style="text-align:right"|[[Radical 48|48]]
+|'''<big>{{lang|zh-Hant|工}}</big>'''
+|3
+|work
+|gōng
+|công
+|{{lang|ja|たくみ}} / takumi
+|{{lang|ko|장인공}} / jangingong
+|17
+|
+|{{lang|zh-Hant|左、巧、功、式}}
+|----
+|style="text-align:right"|[[Radical 49|49]]
+|'''<big>{{lang|zh-Hant|己}}</big>'''
+|3
+|oneself
+|jǐ
+|kỷ
+|{{lang|ja|おのれ}} / onore
+|{{lang|ko|몸기}} / momgi
+|20
+|
+|{{lang|zh-Hant|記、改、忌、龍}}
+|----
+|style="text-align:right"|[[Radical 50|50]]
+|'''<big>{{lang|zh-Hant|巾}}</big>'''
+|3
+|turban
+|jīn
+|cân
+|{{lang|ja|はば}} / haba
+|{{lang|ko|수건건}} / sugeongeon
+|295
+|
+|{{lang|zh-Hant|市、帥、刷、砸}}
+|----
+|style="text-align:right"|[[Radical 51|51]]
+|'''<big>{{lang|zh-Hant|干}}</big>'''
+|3
+|dry
+|gān
+|can
+|{{lang|ja|ほす}} / hosu
+|{{lang|ko|방패간}} / bangpaegan
+|9
+||(pr. {{lang|zh|乾、幹}})
+|{{lang|zh-Hant|旱、开、平、年}}
+|----
+|style="text-align:right"|[[Radical 52|52]]
+|'''<big>{{lang|zh-Hant|幺}}<br/>({{lang|zh|么}})</big>'''
+|3
+|short thread
+|yāo
+|yêu
+|{{lang|ja|いとがしら}} / itogashira
+|{{lang|ko|작을요}} / jageulyo
+|50
+|
+|{{lang|zh-Hant|幻、麼、幽、幾}}
+|----
+|style="text-align:right"|[[Radical 53|53]]
+|'''<big>{{lang|zh-Hant|广}}</big>'''
+|3
+|dotted cliff
+|yǎn
+|nghiễm
+|{{lang|ja|まだれ}} / madare
+|{{lang|ko|엄호}} / eomho
+|15
+||(pr. {{lang|zh|廣}})
+|{{lang|zh-Hant|庀、庂、庄}}
+|----
+|style="text-align:right"|[[Radical 54|54]]
+|'''<big>{{lang|zh-Hant|廴}}</big>'''
+|3
+|long stride
+|yǐn
+|dẫn
+|{{lang|ja|えんにょう}} / ennyō
+|{{lang|ko|민책받침}} / minchaekbatchim
+|9
+|
+|{{lang|zh-Hant|廵、廷、延}}
+|----
+|style="text-align:right"|[[Radical 55|55]]
+|'''<big>{{lang|zh-Hant|廾}}</big>'''
+|3
+|arch
+|gǒng
+|củng
+|{{lang|ja|にじゅうあし}} / nijūashi
+|{{lang|ko|스물입발}} / sumeuripbal
+|50
+|
+|{{lang|zh-Hant|廿、弁、弄}}
+|----
+|style="text-align:right"|[[Radical 56|56]]
+|'''<big>{{lang|zh-Hant|弋}}</big>'''
+|3
+|shoot
+|yì
+|dặc
+|{{lang|ja|しきがまえ}} / shikigamae
+|{{lang|ko|주살익}} / jusarik
+|15
+|
+|{{lang|zh-Hant|弌、弍、弎}}
+|----
+|style="text-align:right"|[[Radical 57|57]]
+|'''<big>{{lang|zh-Hant|弓}}</big>'''
+|3
+|bow
+|gōng
+|cung
+|{{lang|ja|ゆみ}} / yumi
+|{{lang|ko|활궁}} / hwalgung
+|165
+|
+|{{lang|zh-Hant|弔、引、弗}}
+|----
+|style="text-align:right"|[[Radical 58|58]]
+|'''<big>{{lang|zh-Hant|彐}}<br/>({{lang|zh|彑}})</big>'''
+|3
+|snout
+|jì
+|ký/kệ
+|{{lang|ja|けいがしら}} / keigashira
+|{{lang|ko|튼가로왈}} / teungarowal
+|25
+|
+|{{lang|zh-Hant|彔、彖、彗}}
+|----
+|style="text-align:right"|[[Radical 59|59]]
+|'''<big>{{lang|zh-Hant|彡}}</big>'''
+|3
+|bristle
+|shān
+|sam
+|{{lang|ja|さんづくり}} / sandzukuri
+|{{lang|ko|터럭삼}} / teoreoksam
+|62
+|
+|{{lang|zh-Hant|形、彤、彥}}
+|----
+|style="text-align:right"|[[Radical 60|60]]
+|'''<big>{{lang|zh-Hant|彳}}</big>'''
+|3
+|step
+|chì
+|sách
+|{{lang|ja|ぎょうにんべん}} / gyōnimben
+|{{lang|ko|두인변}} / duinbyeon
+|215
+|
+|{{lang|zh-Hant|㣔、彴、彷}}
+|----
+|style="text-align:right"|[[Radical 61|61]]
+|'''<big>{{lang|zh-Hant|心}}<br/>({{lang|zh|忄、⺗}})</big>'''
+|4
+|heart
+|xīn
+|tâm
+|{{lang|ja|りっしんべん}} / risshimben
+|{{lang|ko|마음심 (심방변 / 마음심밑)}} / maeumsim (simbangbyeon / maeumsimmit)
+|1,115
+|
+|{{lang|zh-Hant|必、忉、忌}}
+|----
+|style="text-align:right"|[[Radical 62|62]]
+|'''<big>{{lang|zh-Hant|戈}}</big>'''
+|4
+|halberd
+|gē
+|qua
+|{{lang|ja|かのほこ}} / kanohoko
+|{{lang|ko|창과}} / changgwa
+|116
+|
+|{{lang|zh-Hant|戊、戉、戌}}
+|----
+|style="text-align:right"|[[Radical 63|63]]
+|'''<big>{{lang|zh-Hant|戶}}<br/>({{lang|zh|户、戸}})</big>'''
+|4
+|door
+|hù
+|hộ
+|{{lang|ja|と}} / to
+|{{lang|ko|지게호}} / jigeho
+|44
+|{{lang|zh-Hans|户}}
+|{{lang|zh-Hant|戹、戼、戽}}
+|----
+|style="text-align:right"|[[Radical 64|64]]
+|'''<big>{{lang|zh-Hant|手}}<br/>({{lang|zh|扌、龵}})</big>'''
+|4
+|hand
+|shǒu
+|thủ
+|{{lang|ja|て}} / te
+|{{lang|ko|손수 (재방변)}} / sonsu (jaebangbyeon)
+|1,203
+|
+|{{lang|zh-Hant|才、扎、扐}}
+|----
+|style="text-align:right"|[[Radical 65|65]]
+|'''<big>{{lang|zh-Hant|支}}</big>'''
+|4
+|branch
+|zhī
+|chi
+|{{lang|ja|しにょう}} / shinyō
+|{{lang|ko|지탱할지}} / jitaenghalji
+|26
+|
+|{{lang|zh-Hant|攰、攱、攲}}
+|----
+|style="text-align:right"|[[Radical 66|66]]
+|'''<big>{{lang|zh-Hant|攴}}<br/>({{linktext|lang=zh|攵}})</big>'''
+|4
+|rap, tap
+|pū
+|phộc
+|{{lang|ja|ぼくづくり}} / bokuzukuri
+|{{lang|ko|칠복 (등글월문)}} / chilbok (deunggeulweolmun)
+|296
+|
+|{{lang|zh-Hant|收、攷、攸}}
+|----
+|style="text-align:right"|[[Radical 67|67]]
+|'''<big>{{lang|zh-Hant|文}}</big>'''
+|4
+|script
+|wén
+|văn
+|{{lang|ja|ぶん}} / bun
+|{{lang|ko|글월문}} / geulweolmun
+|26
+|
+|{{lang|zh-Hant|斉、斌、斐}}
+|----
+|style="text-align:right"|[[Radical 68|68]]
+|'''<big>{{lang|zh-Hant|斗}}</big>'''
+|4
+|dipper
+|dǒu
+|đẩu
+|{{lang|ja|とます}} / tomasu
+|{{lang|ko|말두}} / maldu
+|32
+|
+|{{lang|zh-Hant|料、斚、斛}}
+|----
+|style="text-align:right"|[[Radical 69|69]]
+|'''<big>{{lang|zh-Hant|斤}}</big>'''
+|4
+|axe
+|jīn
+|cân
+|{{lang|ja|おの}} / ono
+|{{lang|ko|날근}} / nalgeun
+|55
+|
+|{{lang|zh-Hant|斥、斧、斨}}
+|----
+|style="text-align:right"|[[Radical 70|70]]
+|'''<big>{{lang|zh-Hant|方}}</big>'''
+|4
+|square
+|fāng
+|phương
+|{{lang|ja|ほう}} / hō
+|{{lang|ko|모방}} / mobang
+|92
+|
+|{{lang|zh-Hant|㫃、於、㫄}}
+|----
+|style="text-align:right"|[[Radical 71|71]]
+|'''<big>{{lang|zh-Hant|无}}<br/>({{lang|zh|旡}})</big>'''
+|4
+|not
+|wú
+|vô
+|{{lang|ja|なし}} / nashi
+|{{lang|ko|이미기방}} / imigibang
+|12
+|
+|{{lang|zh-Hant|既、旣、旤}}
+|----
+|style="text-align:right"|[[Radical 72|72]]
+|'''<big>{{lang|zh-Hant|日}}</big>'''
+|4
+|sun
+|rì
+|nhật
+|{{lang|ja|にち}} / nichi
+|{{lang|ko|날일}} / naril
+|453
+|
+|{{lang|zh-Hant|旦、旨、早}}
+|----
+|style="text-align:right"|[[Radical 73|73]]
+|'''<big>{{lang|zh-Hant|曰}}</big>'''
+|4
+|say
+|yuē
+|viết
+|{{lang|ja|いわく}} / iwaku
+|{{lang|ko|가로왈}} / garowal
+|37
+|
+|{{lang|zh-Hant|曲、曳、更}}
+|----
+|style="text-align:right"|[[Radical 74|74]]
+|'''<big>{{lang|zh-Hant|月}}</big>'''
+|4
+|moon
+|yuè
+|nguyệt
+|{{lang|ja|つき}} / tsuki
+|{{lang|ko|달월}} / dalweol
+|69
+|
+|{{lang|zh-Hant|有、朋、服}}
+|----
+|style="text-align:right"|[[Radical 75|75]]
+|'''<big>{{lang|zh-Hant|木}}</big>'''
+|4
+|tree
+|mù
+|mộc
+|{{lang|ja|き}} / ki
+|{{lang|ko|나무목}} / namumok
+|1,369
+|
+|{{lang|zh-Hant|未、末、本}}
+|----
+|style="text-align:right"|[[Radical 76|76]]
+|'''<big>{{lang|zh-Hant|欠}}</big>'''
+|4
+|lack
+|qiàn
+|khiếm
+|{{lang|ja|あくび}} / akubi
+|{{lang|ko|하품흠}} / hapumheum
+|235
+|
+|{{lang|zh-Hant|次、欣、欥}}
+|----
+|style="text-align:right"|[[Radical 77|77]]
+|'''<big>{{lang|zh-Hant|止}}</big>'''
+|4
+|stop
+|zhǐ
+|chỉ
+|{{lang|ja|とめる}} / tomeru
+|{{lang|ko|그칠지}} / geuchilji
+|99
+|
+|{{lang|zh-Hant|正、此、步}}
+|----
+|style="text-align:right"|[[Radical 78|78]]
+|'''<big>{{lang|zh-Hant|歹}}<br/>({{lang|zh|歺}})</big>'''
+|4
+|death
+|dǎi
+|đãi (ngạt)
+|{{lang|ja|がつ}} / gatsu
+|{{lang|ko|죽을사변}} / jugeulsabyeon
+|231
+|
+|{{lang|zh-Hant|歺、死、歿}}
+|----
+|style="text-align:right"|[[Radical 79|79]]
+|'''<big>{{lang|zh-Hant|殳}}</big>'''
+|4
+|weapon
+|shū
+|thù
+|{{lang|ja|ほこつくり}} / hokotsukuri
+|{{lang|ko|갖은등글월문}} / gajeundeunggeulweolmun
+|93
+|
+|{{lang|zh-Hant|段、殷、殺}}
+|----
+|style="text-align:right"|[[Radical 80|80]]
+|'''<big>{{lang|zh-Hant|毋}}<br/>({{lang|zh|母}})</big>'''
+|4
+|do not
+|wú
+|vô
+|{{lang|ja|なかれ}} / nakare
+|{{lang|ko|말무}} / malmu
+|16
+|
+|{{lang|zh-Hant|母、每、毐}}
+|----
+|style="text-align:right"|[[Radical 81|81]]
+|'''<big>{{lang|zh-Hant|比}}</big>'''
+|4
+|compare
+|bǐ
+|tỷ
+|{{lang|ja|くらべる}} / kuraberu
+|{{lang|ko|견줄비}} / gyeonjulbi
+|21
+|
+|{{lang|zh-Hant|毖、毗、毘}}
+|----
+|style="text-align:right"|[[Radical 82|82]]
+|'''<big>{{lang|zh-Hant|毛}}</big>'''
+|4
+|fur
+|máo
+|mao
+|{{lang|ja|け}} / ke
+|{{lang|ko|터럭모}} / teoreokmo
+|211
+|
+|{{lang|zh-Hant|毡、毣、毧}}
+|----
+|style="text-align:right"|[[Radical 83|83]]
+|'''<big>{{lang|zh-Hant|氏}}</big>'''
+|4
+|clan
+|shì
+|thị
+|{{lang|ja|うじ}} / uji
+|{{lang|ko|각시씨}} / gaksissi
+|10
+|
+|{{lang|zh-Hant|氐、民、氓}}
+|----
+|style="text-align:right"|[[Radical 84|84]]
+|'''<big>{{lang|zh-Hant|气}}</big>'''
+|4
+|steam
+|qì
+|khí
+|{{lang|ja|きがまえ}} / kigamae
+|{{lang|ko|기운기엄}} / giungieom
+|17
+|(pr. {{lang|zh|氣}})
+|{{lang|zh-Hant|氕、氘、氚}}
+|----
+|style="text-align:right"|[[Radical 85|85]]
+|'''<big>{{lang|zh-Hant|水}}<br/>({{lang|zh|氵、氺}})</big>'''
+|4
+|water 
+|shuǐ
+|thủy
+|{{lang|ja|みず}} / mizu
+|{{lang|ko|(아래) 물수 (삼수변)}} / (arae) mulsu (samsubyeon)
+|1,595
+|
+|{{lang|zh-Hant|永、氷、氾}}
+|----
+|style="text-align:right"|[[Radical 86|86]]
+|'''<big>{{lang|zh-Hant|火}}<br/>({{lang|zh|灬}})</big>'''
+|4
+|fire
+|huǒ
+|hỏa
+|{{lang|ja|ひ}} / hi
+|{{lang|ko|불화 (연화발)}} / bulhwa (yeonhwabal)
+|639
+|
+|{{lang|zh-Hant|灰、灯、灶}}
+|----
+|style="text-align:right"|[[Radical 87|87]]
+|'''<big>{{lang|zh-Hant|爪}}<br/>({{lang|zh|爫}})</big>'''
+|4
+|claw
+|zhǎo
+|trảo
+|{{lang|ja|つめ}} / tsume
+|{{lang|ko|손톱조}} / sontopjo
+|36
+|
+|{{lang|zh-Hant|爬、爭、爰}}
+|----
+|style="text-align:right"|[[Radical 88|88]]
+|'''<big>{{lang|zh-Hant|父}}</big>'''
+|4
+|father
+|fù
+|phụ
+|{{lang|ja|ちち}} / chichi
+|{{lang|ko|아버지}} / abeoji
+|10
+|
+|{{lang|zh-Hant|爸、爹、爺}}
+|----
+|style="text-align:right"|[[Radical 89|89]]
+|'''<big>{{lang|zh-Hant|爻}}</big>'''
+|4
+|Trigrams
+|yáo
+|hào
+|{{lang|ja|こう}} / kō
+|{{lang|ko|점괘효}} / jeomgwaehyo
+|16
+|
+|{{lang|zh-Hant|爼、爽、爾}}
+|----
+|style="text-align:right"|[[Radical 90|90]]
+|'''<big>{{lang|zh-Hant|爿}}<br/>({{lang|zh|丬}})</big>'''
+|4
+|split wood
+|qiáng
+|tường
+|{{lang|ja|しょうへん}} / shōhen
+|{{lang|ko|장수장변}} / jangsujangbyeon
+|48
+|
+|{{lang|zh-Hant|牀、牁、牂}}
+|----
+|style="text-align:right"|[[Radical 91|91]]
+|'''<big>{{lang|zh-Hant|片}}</big>'''
+|4
+|slice
+|piàn
+|phiến
+|{{lang|ja|かた}} / kata
+|{{lang|ko|조각편}} / jogakpyeon
+|77
+|
+|{{lang|zh-Hant|版、牉、牌}}
+|----
+|style="text-align:right"|[[Radical 92|92]]
+|'''<big>{{lang|zh-Hant|牙}}</big>'''
+|4
+|fang
+|yá
+|nha
+|{{lang|ja|きば}} / kiba
+|{{lang|ko|어금니아}} / eogeumnia
+|9
+|
+|{{lang|zh-Hant|㸦、㸧、牚}}
+|----
+|style="text-align:right"|[[Radical 93|93]]
+|'''<big>{{lang|zh-Hant|牛}}<br/>({{lang|zh|牜、⺧}})</big>'''
+|4
+|cow
+|niú
+|ngưu
+|{{lang|ja|うし}} / ushi
+|{{lang|ko|소우}} / sou
+|233
+|
+|{{lang|zh-Hant|牝、牟、牠}}
+|----
+|style="text-align:right"|[[Radical 94|94]]
+|'''<big>{{lang|zh-Hant|犬}}<br/>({{lang|zh|犭}})</big>'''
+|4
+|dog
+|quǎn
+|khuyển
+|{{lang|ja|いぬ}} / inu
+|{{lang|ko|개견 (개사슴록변)}} / gaegyeon (gaesaseumnokbyeon)
+|444
+|
+|{{lang|zh-Hant|犮、犯、犰}}
+|----
+|style="text-align:right"|[[Radical 95|95]]
+|'''<big>{{lang|zh-Hant|玄}}</big>'''
+|5
+|profound
+|xuán
+|huyền
+|{{lang|ja|げん}} / gen
+|{{lang|ko|검을현}} / geomeulhyeon
+|6
+|
+|{{lang|zh-Hant|玅、率、玈}}
+|----
+|style="text-align:right"|[[Radical 96|96]]
+|'''<big>{{lang|zh-Hant|玉}}<br/>({{lang|zh|王、玊}})</big>'''
+|5
+|jade
+|yù
+|ngọc
+|{{lang|ja|たま}} / tama
+|{{lang|ko|구슬옥변}} / guseulokbyeon
+|473
+|
+|{{lang|zh-Hant|玻、瑪、璧}}
+|----
+|style="text-align:right"|[[Radical 97|97]]
+|'''<big>{{lang|zh-Hant|瓜}}</big>'''
+|5
+|melon
+|guā
+|qua
+|{{lang|ja|うり}} / uri
+|{{lang|ko|오이과}} / oigwa
+|55
+|
+|{{lang|zh-Hant|瓝、瓞、瓟}}
+|----
+|style="text-align:right"|[[Radical 98|98]]
+|'''<big>{{lang|zh-Hant|瓦}}</big>'''
+|5
+|tile
+|wǎ
+|ngõa
+|{{lang|ja|かわら}} / kawara
+|{{lang|ko|기와와}} / giwawa
+|174
+|
+|{{lang|zh-Hant|㼚、瓮、瓫}}
+|----
+|style="text-align:right"|[[Radical 99|99]]
+|'''<big>{{lang|zh-Hant|甘}}</big>'''
+|5
+|sweet
+|gān
+|cam
+|{{lang|ja|あまい}} / amai
+|{{lang|ko|달감}} / dalgam
+|22
+|
+|{{lang|zh-Hant|甚、甜、甛}}
+|----
+|style="text-align:right"|[[Radical 100|100]]
+|'''<big>{{lang|zh-Hant|生}}</big>'''
+|5
+|life
+|shēng
+|sinh
+|{{lang|ja|うまれる}} / umareru
+|{{lang|ko|날생}} / nalsaeng
+|22
+|
+|{{lang|zh-Hant|甡、產、甥}}
+|----
+|style="text-align:right"|[[Radical 101|101]]
+|'''<big>{{lang|zh-Hant|用}}</big>'''
+|5
+|use
+|yòng
+|dụng
+|{{lang|ja|もちいる}} / mochiiru
+|{{lang|ko|쓸용}} / sseulyong
+|10
+|
+|{{lang|zh-Hant|甩、甫、甬}}
+|----
+|style="text-align:right"|[[Radical 102|102]]
+|'''<big>{{lang|zh-Hant|田}}</big>'''
+|5
+|field
+|tián
+|điền
+|{{lang|ja|た}} / ta
+|{{lang|ko|밭전}} / batjeon
+|192
+|
+|{{lang|zh-Hant|由、甲、申}}
+|----
+|style="text-align:right"|[[Radical 103|103]]
+|'''<big>{{lang|zh-Hant|疋}}<br/>({{lang|zh|⺪}})</big>'''
+|5
+|bolt of cloth
+|pǐ
+|thất/sơ
+|{{lang|ja|ひき}} / hiki
+|{{lang|ko|짝필}} / jjakpil
+|15
+|
+|{{lang|zh-Hant|疌、疏、疎}}
+|----
+|style="text-align:right"|[[Radical 104|104]]
+|'''<big>{{lang|zh-Hant|疒}}</big>'''
+|5
+|sickness
+|nè
+|nạch
+|{{lang|ja|やまいだれ}} / yamaidare
+|{{lang|ko|병질엄}} / byeongjileom
+|526
+|
+|{{lang|zh-Hant|疔、疚、疝}}
+|----
+|style="text-align:right"|[[Radical 105|105]]
+|'''<big>{{lang|zh-Hant|癶}}</big>'''
+|5
+|footsteps
+|bō
+|bát
+|{{lang|ja|はつがしら}} / hatsugashira
+|{{lang|ko|필발머리}} / pilbalmeori
+|15
+|
+|{{lang|zh-Hant|癸、癹、発}}
+|----
+|style="text-align:right"|[[Radical 106|106]]
+|'''<big>{{lang|zh-Hant|白}}</big>'''
+|5
+|white
+|bái
+|bạch
+|{{lang|ja|しろ}} / shiro
+|{{lang|ko|흰백}} / heuinbaek 
+|109
+|
+|{{lang|zh-Hant|百、皀、皁}}
+|----
+|style="text-align:right"|[[Radical 107|107]]
+|'''<big>{{lang|zh-Hant|皮}}</big>'''
+|5
+|skin
+|pí
+|bì
+|{{lang|ja|けがわ}} / kegawa
+|{{lang|ko|가죽피}} / gajukpi
+|94
+|
+|{{lang|zh-Hant|皯、皰、皴}}
+|----
+|style="text-align:right"|[[Radical 108|108]]
+|'''<big>{{lang|zh-Hant|皿}}</big>'''
+|5
+|dish
+|mǐn
+|mãnh
+|{{lang|ja|さら}} / sara
+|{{lang|ko|그릇명}} / geureutmyeong
+|129
+|
+|{{lang|zh-Hant|盂、盃、盅}}
+|----
+|style="text-align:right"|[[Radical 109|109]]
+|'''<big>{{lang|zh-Hant|目}}<br/>({{linktext|lang=zh|⺫}})</big>'''
+|5
+|eye
+|mù
+|mục
+|{{lang|ja|め}} / me
+|{{lang|ko|눈목}} / nunmok
+|647
+|
+|{{lang|zh-Hant|盯、盱、盲}}
+|----
+|style="text-align:right"|[[Radical 110|110]]
+|'''<big>{{lang|zh-Hant|矛}}</big>'''
+|5
+|spear
+|máo
+|mâu
+|{{lang|ja|むのほこ}} / munohoko
+|{{lang|ko|창모}} / changmo
+|65
+|
+|{{lang|zh-Hant|矜、矞、矟}}
+|----
+|style="text-align:right"|[[Radical 111|111]]
+|'''<big>{{lang|zh-Hant|矢}}</big>'''
+|5
+|arrow
+|shǐ
+|thỉ
+|{{lang|ja|や}} / ya
+|{{lang|ko|화살시}} / hwasalsi
+|64
+|
+|{{lang|zh-Hant|矣、知、矧}}
+|----
+|style="text-align:right"|[[Radical 112|112]]
+|'''<big>{{lang|zh-Hant|石}}</big>'''
+|5
+|stone
+|shí
+|thạch
+|{{lang|ja|いし}} / ishi
+|{{lang|ko|돌석}} / dolseok
+|499
+|
+|{{lang|zh-Hant|矸、矻、矼}}
+|----
+|style="text-align:right"|[[Radical 113|113]]
+|'''<big>{{lang|zh-Hant|示}}<br/>({{lang|zh|礻}})</big>'''
+|5
+|spirit
+|shì
+|thị (kỳ)
+|{{lang|ja|しめす}} / shimesu
+|{{lang|ko|보일시 (변)}} / boilsi (byeon)
+|213
+|
+|{{lang|zh-Hant|礼、礽、社}}
+|----
+|style="text-align:right"|[[Radical 114|114]]
+|'''<big>{{lang|zh-Hant|禸}}</big>'''
+|5
+|track
+|róu
+|nhựu
+|{{lang|ja|ぐうのあし}} / gūnoashi
+|{{lang|ko|짐승발자국유}} / jimseungbaljagugyu
+|12
+|
+|{{lang|zh-Hant|禹、禺、离}}
+|----
+|style="text-align:right"|[[Radical 115|115]]
+|'''<big>{{lang|zh-Hant|禾}}</big>'''
+|5
+|grain
+|hé
+|hòa
+|{{lang|ja|のぎ}} / nogi
+|{{lang|ko|벼화}} / byeohwa
+|431
+|
+|{{lang|zh-Hant|禿、秀、私}}
+|----
+|style="text-align:right"|[[Radical 116|116]]
+|'''<big>{{lang|zh-Hant|穴}}</big>'''
+|5
+|cave
+|xué
+|huyệt
+|{{lang|ja|あな}} / ana
+|{{lang|ko|구멍혈}} / gumeonghyeol
+|298
+|
+|{{lang|zh-Hant|究、穸、空}}
+|----
+|style="text-align:right"|[[Radical 117|117]]
+|'''<big>{{lang|zh-Hant|立}}</big>'''
+|5
+|stand
+|lì
+|lập
+|{{lang|ja|たつ}} / tatsu
+|{{lang|ko|설립}} / seollip
+|101
+|
+|{{lang|zh-Hant|竑、竒、竘}}
+|----
+|style="text-align:right"|[[Radical 118|118]]
+|'''<big>{{lang|zh-Hant|竹}}<br/>({{lang|zh|⺮}})</big>'''
+|6
+|bamboo
+|zhú
+|trúc
+|{{lang|ja|たけ}} / take
+|{{lang|ko|대죽}} / daejuk
+|953
+|
+|{{lang|zh-Hant|竺、竽、竿}}
+|----
+|style="text-align:right"|[[Radical 119|119]]
+|'''<big>{{lang|zh-Hant|米}}</big>'''
+|6
+|rice
+|mǐ
+|mễ
+|{{lang|ja|こめ}} / kome
+|{{lang|ko|쌀미}} / ssalmi
+|318
+|
+|{{lang|zh-Hant|籸、籹、籽}}
+|----
+|style="text-align:right"|[[Radical 120|120]]
+|'''<big>{{lang|zh-Hant|糸}}<br/>({{lang|zh|糹}})</big>'''
+|6
+|silk
+|mì
+|mịch
+|{{lang|ja|いと}} / ito
+|{{lang|ko|실사}} / silsa
+|823
+|{{lang|zh-Hans|纟}}
+|{{lang|zh-Hant|系、糾、紀}}
+|----
+|style="text-align:right"|[[Radical 121|121]]
+|'''<big>{{lang|zh-Hant|缶}}</big>'''
+|6
+|jar
+|fǒu
+|phẫu
+|{{lang|ja|ほとぎ}} / hotogi
+|{{lang|ko|장군부}} / janggunbu
+|77
+|
+|{{lang|zh-Hant|缸、缺、缽}}
+|----
+|style="text-align:right"|[[Radical 122|122]]
+|'''<big>{{lang|zh-Hant|网}}<br/>({{lang|zh|{{linktext|⺲}}、罓、⺳}})</big>'''
+|6
+|net
+|wǎng
+|võng
+|{{lang|ja|あみがしら}} / amigashira
+|{{lang|ko|그물망}} / geumulmang
+|163
+|
+|{{lang|zh-Hant|罔、罕、罘}}
+|----
+|style="text-align:right"|[[Radical 123|123]]
+|'''<big>{{lang|zh-Hant|羊}}<br/>({{lang|zh|⺶、⺷}})</big>'''
+|6
+|sheep
+|yáng
+|dương
+|{{lang|ja|ひつじ}} / hitsuji
+|{{lang|ko|양양}} / yangyang
+|156
+|
+|{{lang|zh-Hant|羋、羌、美}}
+|----
+|style="text-align:right"|[[Radical 124|124]]
+|'''<big>{{lang|zh-Hant|羽}}</big>'''
+|6
+|feather
+|yǔ
+|vũ
+|{{lang|ja|はね}} / hane
+|{{lang|ko|깃우}} / gisu
+|220
+|
+|{{lang|zh-Hant|羿、翀、翁}}
+|----
+|style="text-align:right"|[[Radical 125|125]]
+|'''<big>{{lang|zh-Hant|老}}<br/>({{lang|zh|耂}})</big>'''
+|6
+|old
+|lǎo
+|lão
+|{{lang|ja|おい}} / oi
+|{{lang|ko|늙을로}} / neulgeullo
+|22
+|
+|{{lang|zh-Hant|考、者、耆}}
+|----
+|style="text-align:right"|[[Radical 126|126]]
+|'''<big>{{lang|zh-Hant|而}}</big>'''
+|6
+|and
+|ér
+|nhi
+|{{lang|ja|しかして}} / shikashite
+|{{lang|ko|말이을이}} / malieuri
+|22
+|
+|{{lang|zh-Hant|耍、耎、耏}}
+|----
+|style="text-align:right"|[[Radical 127|127]]
+|'''<big>{{lang|zh-Hant|耒}}</big>'''
+|6
+|plough
+|lěi
+|lỗi
+|{{lang|ja|らいすき}} / raisuki
+|{{lang|ko|가래뢰}} / garaeroe
+|84
+|
+|{{lang|zh-Hant|耔、耕、耖}}
+|----
+|style="text-align:right"|[[Radical 128|128]]
+|'''<big>{{lang|zh-Hant|耳}}</big>'''
+|6
+|ear
+|ěr
+|nhĩ
+|{{lang|ja|みみ}} / mimi
+|{{lang|ko|귀이}} / gwii
+|172
+|
+|{{lang|zh-Hant|耴、耵、耷}}
+|----
+|style="text-align:right"|[[Radical 129|129]]
+|'''<big>{{lang|zh-Hant|聿}}<br/>({{lang|zh|⺺、⺻}})</big>'''
+|6
+|brush
+|yù
+|duật
+|{{lang|ja|ふでづくり}} / fudezukuri
+|{{lang|ko|붓율}} / busyul
+|19
+|
+|{{lang|zh-Hant|肄、肆、肅}}
+|----
+|style="text-align:right"|[[Radical 130|130]]
+|'''<big>{{lang|zh-Hant|肉}}<br/>({{lang|zh|⺼}})</big>'''
+|6
+|meat
+|ròu
+|nhục
+|{{lang|ja|にく}} / niku
+|{{lang|ko|고기육 (육달월)}} / gogiyuk (yukdalwol)
+|674
+|{{lang|zh-Hans|月}}
+|{{lang|zh-Hant|肊、肋、然}}
+|----
+|style="text-align:right"|[[Radical 131|131]]
+|'''<big>{{lang|zh-Hant|臣}}</big>'''
+|6
+|minister
+|chén
+|thần
+|{{lang|ja|しん}} / shin
+|{{lang|ko|신하신}} / sinhasin
+|16
+|
+|{{lang|zh-Hant|臤、臥、臧}}
+|----
+|style="text-align:right"|[[Radical 132|132]]
+|'''<big>{{lang|zh-Hant|自}}</big>'''
+|6
+|self
+|zì
+|tự
+|{{lang|ja|みずから}} / mizukara
+|{{lang|ko|스스로자}} / seuseuroja
+|34
+|
+|{{lang|zh-Hant|臬、臭、臯}}
+|----
+|style="text-align:right"|[[Radical 133|133]]
+|'''<big>{{lang|zh-Hant|至}}</big>'''
+|6
+|arrive
+|zhì
+|chí
+|{{lang|ja|いたる}} / itaru
+|{{lang|ko|이를지}} / ireulji
+|24
+|
+|{{lang|zh-Hant|致、臷、臺}}
+|----
+|style="text-align:right"|[[Radical 134|134]]
+|'''<big>{{lang|zh-Hant|臼}}</big>'''
+|6
+|mortar
+|jiù
+|cữu
+|{{lang|ja|うす}} / usu
+|{{lang|ko|절구구 (변)}} / jeolgugu (byeon)
+|71
+|
+|{{lang|zh-Hant|臾、臿、舁}}
+|----
+|style="text-align:right"|[[Radical 135|135]]
+|'''<big>{{lang|zh-Hant|舌}}</big>'''
+|6
+|tongue
+|shé
+|thiệt
+|{{lang|ja|した}} / shita
+|{{lang|ko|혀설}} / hyeoseol
+|31
+|
+|{{lang|zh-Hant|舍、舐、舑}}
+|----
+|style="text-align:right"|[[Radical 136|136]]
+|'''<big>{{lang|zh-Hant|舛}}</big>'''
+|6
+|oppose
+|chuǎn
+|suyễn
+|{{lang|ja|ます}} / masu
+|{{lang|ko|어그러질천}} / eogeureojilcheon
+|10
+|
+|{{lang|zh-Hant|舜、舝、舞}}
+|----
+|style="text-align:right"|[[Radical 137|137]]
+|'''<big>{{lang|zh-Hant|舟}}</big>'''
+|6
+|boat
+|zhōu
+|chu
+|{{lang|ja|ふね}} / fune
+|{{lang|ko|배주}} / baeju
+|197
+|
+|{{lang|zh-Hant|舠、舡、舢}}
+|----
+|style="text-align:right"|[[Radical 138|138]]
+|'''<big>{{lang|zh-Hant|艮}}</big>'''
+|6
+|stopping
+|gèn
+|cấn
+|{{lang|ja|こん}} / kon
+|{{lang|ko|괘이름간}} / gwaeireumgan
+|5
+|
+|{{lang|zh-Hant|良、艱}}
+|----
+|style="text-align:right"|[[Radical 139|139]]
+|'''<big>{{lang|zh-Hant|色}}</big>'''
+|6
+|color
+|sè
+|sắc
+|{{lang|ja|いろ}} / iro
+|{{lang|ko|빛색}} / bitsaek
+|21
+|
+|{{lang|zh-Hant|艳、艴、艵}}
+|----
+|style="text-align:right"|[[Radical 140|140]]
+|'''<big>{{lang|zh-Hant|艸}}<br/>({{lang|zh-Hant|⺿}})</big>'''
+|6
+|grass
+|cǎo
+|thảo
+|{{lang|ja|くさ}} / kusa
+|{{lang|ko|풀초 (초두머리)}} / pulcho (chodumeori)
+|1,902
+|{{lang|zh-Hans|⺾}}
+|{{lang|zh-Hant|艽、艾、芃}}
+|----
+|style="text-align:right"|[[Radical 141|141]]
+|'''<big>{{lang|zh-Hant|虍}}</big>'''
+|6
+|tiger
+|hū
+|hô
+|{{lang|ja|とらかんむり}} / torakammuri
+|{{lang|ko|범호엄}} / beomhoeom
+|114
+|
+|{{lang|zh-Hant|虎、虐、虒}}
+|----
+|style="text-align:right"|[[Radical 142|142]]
+|'''<big>{{lang|zh-Hant|虫}}</big>'''
+|6
+|insect
+|chóng
+|trùng
+|{{lang|ja|むし}} / mushi
+|{{lang|ko|벌레훼}} / beollehwe
+|1,067
+|(pr. {{lang|zh|蟲}})
+|{{lang|zh-Hant|虬、虯、虱}}
+|----
+|style="text-align:right"|[[Radical 143|143]]
+|'''<big>{{lang|zh-Hant|血}}</big>'''
+|6
+|blood
+|xuè
+|huyết
+|{{lang|ja|ち}} / chi
+|{{lang|ko|피혈}} / pihyeol
+|60
+|
+|{{lang|zh-Hant|衁、衂、衃}}
+|----
+|style="text-align:right"|[[Radical 144|144]]
+|'''<big>{{lang|zh-Hant|行}}</big>'''
+|6
+|walk enclosure
+|xíng
+|hành/hàng
+|{{lang|ja|ぎょう}} / gyō
+|{{lang|ko|다닐행}} / danilhaeng
+|53
+|
+|{{lang|zh-Hant|衍、衎、衒}}
+|----
+|style="text-align:right"|[[Radical 145|145]]
+|'''<big>{{lang|zh-Hant|衣}}<br/>({{lang|zh|⻂}})</big>'''
+|6
+|clothes
+|yī
+|y
+|{{lang|ja|ころも}} / koromo
+|{{lang|ko|옷의 (변)}} /oseui (byeon)
+|607
+|
+|{{lang|zh-Hant|初、表、衫}}
+|----
+|style="text-align:right"|[[Radical 146|146]]
+|'''<big>{{lang|zh-Hant|襾}}<br/>({{lang|zh|西、覀}})</big>'''
+|6
+|cover
+|yà
+|á
+|'''{{lang|ja|ア}}''' / a
+|{{lang|ko|덮개}} / deopgae
+|29
+|
+|{{lang|zh-Hant|西、要、覂}}
+|----
+|style="text-align:right"|[[Radical 147|147]]
+|'''<big>{{lang|zh-Hant|見}}</big>'''
+|7
+|see
+|jiàn
+|kiến
+|{{lang|ja|みる}} / miru
+|{{lang|ko|볼견}} / bolgyeon
+|161
+|{{lang|zh-Hans|见}}
+|{{lang|zh-Hant|規、覓、視}}
+|----
+|style="text-align:right"|[[Radical 148|148]]
+|'''<big>{{lang|zh-Hant|角}}<br/>({{lang|zh|⻇}})</big>'''
+|7
+|horn
+|jiǎo
+|giác
+|{{lang|ja|つの}} / tsuno
+|{{lang|ko|뿔각}} / bbulgak
+|158
+|{{lang|zh-Hans|⻆}}
+|{{lang|zh-Hant|觓、觔、觕}}
+|----
+|style="text-align:right"|[[Radical 149|149]]
+|'''<big>{{lang|zh-Hant|言}}<br/>({{lang|zh|訁}})</big>'''
+|7
+|speech
+|yán
+|ngôn
+|{{lang|ja|ことば}} / kotoba
+|{{lang|ko|말씀언}} / malsseumeon
+|861
+|{{lang|zh-Hans|讠}}
+|{{lang|zh-Hant|訂、訃、計}}
+|----
+|style="text-align:right"|[[Radical 150|150]]
+|'''<big>{{lang|zh-Hant|谷}}</big>'''
+|7
+|valley
+|gǔ
+|cốc
+|{{lang|ja|たに}} / tani
+|{{lang|ko|골곡}} / golgok
+|54
+|
+|{{lang|zh-Hant|谹、谽、谿}}
+|----
+|style="text-align:right"|[[Radical 151|151]]
+|'''<big>{{lang|zh-Hant|豆}}</big>'''
+|7
+|bean
+|dòu
+|đậu
+|{{lang|ja|まめ}} / mame
+|{{lang|ko|콩두}} / kongdu
+|68
+|
+|{{lang|zh-Hant|豇、豈、豉}}
+|----
+|style="text-align:right"|[[Radical 152|152]]
+|'''<big>{{lang|zh-Hant|豕}}</big>'''
+|7
+|pig
+|shǐ
+|thỉ
+|{{lang|ja|いのこ}} / inoko
+|{{lang|ko|돼지시}} / dwaejisi
+|148
+|
+|{{lang|zh-Hant|豗、豚、豜}}
+|----
+|style="text-align:right"|[[Radical 153|153]]
+|'''<big>{{lang|zh-Hant|豸}}</big>'''
+|7
+|badger
+|zhì
+|trãi
+|{{lang|ja|むじな}} / mujina
+|{{lang|ko|갖은돼지시변}} / gajeundwaejisibyeon
+|140
+|
+|{{lang|zh-Hant|豺、豻、豹}}
+|----
+|style="text-align:right"|[[Radical 154|154]]
+|'''<big>{{lang|zh-Hant|貝}}</big>'''
+|7
+|shell
+|bèi
+|bối
+|{{lang|ja|かい}} / kai
+|{{lang|ko|조개패}} / jogaepae
+|277
+|{{lang|zh-Hans|贝}}
+|{{lang|zh-Hant|貞、負、財}}
+|----
+|style="text-align:right"|[[Radical 155|155]]
+|'''<big>{{lang|zh-Hant|赤}}</big>'''
+|7
+|red
+|chì
+|xích
+|{{lang|ja|あか}} / aka
+|{{lang|ko|붉을적}} / bulgeuljeok
+|31
+|
+|{{lang|zh-Hant|赦、赧、赨}}
+|----
+|style="text-align:right"|[[Radical 156|156]]
+|'''<big>{{lang|zh-Hant|走}}</big>'''
+|7
+|run
+|zǒu
+|tẩu
+|{{lang|ja|はしる}} / hashiru
+|{{lang|ko|달릴주}} / dallilju
+|285
+|
+|{{lang|zh-Hant|赳、赴、赶}}
+|----
+|style="text-align:right"|[[Radical 157|157]]
+|'''<big>{{lang|zh-Hant|足}}<br/>({{lang|zh|⻊}})</big>'''
+|7
+|foot
+|zú
+|túc
+|{{lang|ja|あし}} / ashi
+|{{lang|ko|발족}} / baljok
+|580
+|
+|{{lang|zh-Hant|趴、趵、趷}}
+|----
+|style="text-align:right"|[[Radical 158|158]]
+|'''<big>{{lang|zh-Hant|身}}</big>'''
+|7
+|body
+|shēn
+|thân
+|{{lang|ja|み}} / mi
+|{{lang|ko|몸신}} / momsin
+|97
+|
+|{{lang|zh-Hant|躬、躭、躰}}
+|----
+|style="text-align:right"|[[Radical 159|159]]
+|'''<big>{{lang|zh-Hant|車}}</big>'''
+|7
+|cart
+|chē
+|xa
+|{{lang|ja|くるま}} / kuruma
+|{{lang|ko|수레거}} / suregeo
+|361
+|{{lang|zh-Hans|车}}
+|{{lang|zh-Hant|軋、軌、軍}}
+|----
+|style="text-align:right"|[[Radical 160|160]]
+|'''<big>{{lang|zh-Hant|辛}}</big>'''
+|7
+|bitter
+|xīn
+|tân
+|{{lang|ja|からい}} / karai
+|{{lang|ko|매울신}} / maeulsin
+|36
+|
+|{{lang|zh-Hant|辜、辝、辟}}
+|----
+|style="text-align:right"|[[Radical 161|161]]
+|'''<big>{{lang|zh-Hant|辰}}</big>'''
+|7
+|morning
+|chén
+|thần/thìn
+|{{lang|ja|しんのたつ}} / shinnotatsu
+|{{lang|ko|별진}} / byeoljin
+|15
+|
+|{{lang|zh-Hant|辱、農、辴}}
+|----
+|style="text-align:right"|[[Radical 162|162]]
+|'''<big>{{lang|zh-Hant|辵}}<br/>({{lang|zh-Hans|⻌}}、{{lang|ko|⻍}}、{{lang|zh-Hant|⻎}})</big>'''
+|7
+|walk
+|chuò
+|sước
+|{{lang|ja|しんにょう}} / shinnyō
+|{{lang|ko|갖은책받침 (책받침)}} / gajeunchaekbatchim (chaekbatchim)
+|381
+|
+|{{lang|zh-Hant|边、巡、迂}}
+|----
+|style="text-align:right"|[[Radical 163|163]]
+|'''<big>{{lang|zh-Hant|邑}}<br/>({{linktext|lang=zh|⻏}})</big>'''
+|7
+|city
+|yì
+|ấp
+|{{lang|ja|むら}} / mura
+|{{lang|ko|고을읍 (우부방)}} / goeureup (ububang)
+|350
+|
+|{{lang|zh-Hant|邕、邗、邘}}
+|----
+|style="text-align:right"|[[Radical 164|164]]
+|'''<big>{{lang|zh-Hant|酉}}</big>'''
+|7
+|wine
+|yǒu
+|dậu
+|{{lang|ja|ひよみのとり}} / hyominotori
+|{{lang|ko|닭유}} / dalgyu
+|290
+|
+|{{lang|zh-Hant|酊、酋、酌}}
+|----
+|style="text-align:right"|[[Radical 165|165]]
+|'''<big>{{lang|zh-Hant|釆}}</big>'''
+|7
+|distinguish
+|biàn
+|biện
+|{{lang|ja|のごめ}} / nogome
+|{{lang|ko|분별할변}} / bunbyeolhalbyeon
+|14
+|
+|{{lang|zh-Hant|采、釉、釋}}
+|----
+|style="text-align:right"|[[Radical 166|166]]
+|'''<big>{{lang|zh-Hant|里}}</big>'''
+|7
+|village
+|lǐ
+|lý
+|{{lang|ja|さと}} / sato
+|{{lang|ko|마을리}} / maeulli
+|14
+|
+|{{lang|zh-Hant|重、野、量}}
+|----
+|style="text-align:right"|[[Radical 167|167]]
+|'''<big>{{lang|zh-Hant|金}}<br/>({{lang|zh|釒}})</big>'''
+|8
+|gold
+|jīn
+|kim
+|{{lang|ja|かね}} / kane
+|{{lang|ko|쇠금}} / soegeum
+|806
+|{{lang|zh-Hans|钅}}
+|{{lang|zh-Hant|釓、釔、釕}}
+|----
+|style="text-align:right"|[[Radical 168|168]]
+|'''<big>{{lang|zh-Hant|長}}<br/>({{lang|zh|镸}})</big>'''
+|8
+|long
+|cháng
+|trường/trưởng
+|{{lang|ja|ながい}} / nagai
+|{{lang|ko|길장 (변)}} / giljang (byeon)
+|55
+|{{lang|zh-Hans|长}}
+|{{lang|zh-Hant|镺、镻、镼}}
+|----
+|style="text-align:right"|[[Radical 169|169]]
+|'''<big>{{lang|zh-Hant|門}}</big>'''
+|8
+|gate
+|mén
+|môn
+|{{lang|ja|もん}} / mon
+|{{lang|ko|문문}} / munmun
+|246
+|{{lang|zh-Hans|门}}
+|{{lang|zh-Hant|閂、閃、閆}}
+|----
+|style="text-align:right"|[[Radical 170|170]]
+|'''<big>{{lang|zh-Hant|阜}}<br/>({{linktext|lang=zh|⻖}})</big>'''
+|8
+|mound
+|fù
+|phụ
+|{{lang|ja|おか}} / oka
+|{{lang|ko|언덕부 (좌부변)}} / eondeokbu (jwabubyeon)
+|348
+|
+|{{lang|zh-Hant|阞、阡、阢}}
+|----
+|style="text-align:right"|[[Radical 171|171]]
+|'''<big>{{lang|zh-Hant|隶}}</big>'''
+|8
+|slave
+|lì
+|lệ
+|{{lang|ja|れいづくり}} / reizukuri
+|{{lang|ko|미칠이}} / michiri
+|12
+|
+|{{lang|zh-Hant|𨽻、隷、隸}}
+|----
+|style="text-align:right"|[[Radical 172|172]]
+|'''<big>{{lang|zh-Hant|隹}}</big>'''
+|8
+|short-tailed bird
+|zhuī
+|chuy
+|{{lang|ja|ふるとり}} / furutori
+|{{lang|ko|새추}} / saechu
+|233
+|
+|{{lang|zh-Hant|隻、隼、隽}}
+|----
+|style="text-align:right"|[[Radical 173|173]]
+|'''<big>{{lang|zh-Hant|雨}}</big>'''
+|8
+|rain
+|yǔ
+|vũ
+|{{lang|ja|あめ}} / ame
+|{{lang|ko|비우}} / biu
+|298
+|
+|{{lang|zh-Hant|雩、雪、雯}}
+|----
+|style="text-align:right"|[[Radical 174|174]]
+|'''<big>{{lang|zh-Hant|靑}}<br/>({{lang|zh|青}})</big>'''
+|8
+|blue
+|qīng
+|thanh
+|{{lang|ja|あお}} / ao
+|{{lang|ko|푸를청}} / pureulcheong
+|17
+|
+|{{lang|zh-Hant|靖、静、靚}}
+|----
+|style="text-align:right"|[[Radical 175|175]]
+|'''<big>{{lang|zh-Hant|非}}</big>'''
+|8
+|wrong
+|fēi
+|phi
+|{{lang|ja|あらず}} / arazu
+|{{lang|ko|아닐비}} / anilbi
+|25
+|
+|{{lang|zh-Hant|靟、靠、靡}}
+|----
+|style="text-align:right"|[[Radical 176|176]]
+|'''<big>{{lang|zh-Hant|面}}<br/>({{lang|zh|靣}})</big>'''
+|9
+|face
+|miàn
+|diện
+|{{lang|ja|めん}} / men
+|{{lang|ko|낯면}} / natmyeon
+|66
+|
+|{{lang|zh-Hant|靤、靦、靧}}
+|----
+|style="text-align:right"|[[Radical 177|177]]
+|'''<big>{{lang|zh-Hant|革}}</big>'''
+|9
+|leather
+|gé
+|cách
+|{{lang|ja|かくのかわ}} / kakunokawa
+|{{lang|ko|가죽혁}} / gajukhyeok
+|305
+|
+|{{lang|zh-Hant|靭、靮、靳}}
+|----
+|style="text-align:right"|[[Radical 178|178]]
+|'''<big>{{lang|zh-Hant|韋}}</big>'''
+|9
+|tanned leather
+|wéi
+|vi
+|{{lang|ja|なめしがわ}} / nameshigawa
+|{{lang|ko|가죽위}} / gajugwi
+|100
+|{{lang|zh-Hans|韦}}
+|{{lang|zh-Hant|韌、韍、韎}}
+|----
+|style="text-align:right"|[[Radical 179|179]]
+|'''<big>{{lang|zh-Hant|韭}}</big>'''
+|9
+|leek
+|jiǔ
+|cửu
+|{{lang|ja|にら}} / nira
+|{{lang|ko|부추구}} / buchugu
+|20
+|
+|{{lang|zh-Hant|韰、韲、䪢}}
+|----
+|style="text-align:right"|[[Radical 180|180]]
+|'''<big>{{lang|zh-Hant|音}}</big>'''
+|9
+|sound
+|yīn
+|âm
+|{{lang|ja|おと}} / oto
+|{{lang|ko|소리음}} / sorieum
+|43
+|
+|{{lang|zh-Hant|竟、章、韵}}
+|----
+|style="text-align:right"|[[Radical 181|181]]
+|'''<big>{{lang|zh-Hant|頁}}</big>'''
+|9
+|leaf
+|yè
+|hiệt
+|{{lang|ja|おおがい}} / ōgai
+|{{lang|ko|머리혈}} / meorihyeol
+|372
+|{{lang|zh-Hans|页}}
+|{{lang|zh-Hant|頂、頃、頄}}
+|----
+|style="text-align:right"|[[Radical 182|182]]
+|'''<big>{{lang|zh-Hant|風}}</big>'''
+|9
+|wind
+|fēng
+|phong
+|{{lang|ja|かぜ}} / kaze
+|{{lang|ko|바람풍}} / barampung
+|182
+|{{lang|zh-Hans|风}}
+|{{lang|zh-Hant|颩、颭、颮}}
+|----
+|style="text-align:right"|[[Radical 183|183]]
+|'''<big>{{lang|zh-Hant|飛}}</big>'''
+|9
+|fly
+|fēi
+|phi
+|{{lang|ja|とぶ}} / tobu
+|{{lang|ko|날비}} / nalbi
+|92
+|{{lang|zh-Hans|飞}}
+|{{lang|zh-Hant|䬡、飜、飝}}
+|----
+|style="text-align:right"|[[Radical 184|184]]
+|'''<big>{{lang|zh-Hant|食}}<br/>({{lang|zh|飠}})</big>'''
+|9
+|eat
+|shí
+|thực
+|{{lang|ja|しょく}} / shoku
+|{{lang|ko|밥식 (변)}} / bapsik (byeon)
+|403
+|{{lang|zh-Hans|饣}}
+|{{lang|zh-Hant|飡、飢、飣}}
+|----
+|style="text-align:right"|[[Radical 185|185]]
+|'''<big>{{lang|zh-Hant|首}}</big>'''
+|9
+|head
+|shǒu
+|thủ
+|{{lang|ja|くび}} / kubi
+|{{lang|ko|머리수}} / meorisu
+|20
+|
+|{{lang|zh-Hant|馗、䭫、馘}}
+|----
+|style="text-align:right"|[[Radical 186|186]]
+|'''<big>{{lang|zh-Hant|香}}</big>'''
+|9
+|fragrant
+|xiāng
+|hương
+|{{lang|ja|においこう}} / nioikō
+|{{lang|ko|향기향}} / hyanggihyang
+|37
+|
+|{{lang|zh-Hant|馝、馞、馡}}
+|----
+|style="text-align:right"|[[Radical 187|187]]
+|'''<big>{{lang|zh-Hant|馬}}</big>'''
+|10
+|horse
+|mǎ
+|mã
+|{{lang|ja|うま}} / uma
+|{{lang|ko|말마}} / malma
+|472
+|{{lang|zh-Hans|马}}
+|{{lang|zh-Hant|馭、馮、馯}}
+|----
+|style="text-align:right"|[[Radical 188|188]]
+|'''<big>{{lang|zh-Hant|骨}}</big>'''
+|10
+|bone
+|gǔ
+|cốt
+|{{lang|ja|ほね}} / hone
+|{{lang|ko|뼈골}} / ppyeogol
+|185
+|{{lang|zh-Hans|⻣}}
+|{{lang|zh-Hant|骫、骭、骯}}
+|----
+|style="text-align:right"|[[Radical 189|189]]
+|'''<big>{{lang|zh-Hant|高}}<br/>({{lang|zh|髙}})</big>'''
+|10
+|tall
+|gāo
+|cao
+|{{lang|ja|たかい}} / takai
+|{{lang|ko|높을고}} / nopeulgo
+|34
+|
+|{{lang|zh-Hant|髚、髛、𩫛}}
+|----
+|style="text-align:right"|[[Radical 190|190]]
+|'''<big>{{lang|zh-Hant|髟}}</big>'''
+|10
+|hair
+|biāo
+|bưu/tiêu
+|{{lang|ja|かみがしら}} / kamigashira
+|{{lang|ko|터럭발}} / teoreokbal
+|243
+|
+|{{lang|zh-Hant|髠、髡、髢}}
+|----
+|style="text-align:right"|[[Radical 191|191]]
+|'''<big>{{lang|zh-Hant|鬥}}</big>'''
+|10
+|fight
+|dòu
+|đấu
+|{{lang|ja|とうがまえ}} / tōgamae
+|{{lang|ko|싸울투}} / ssaultu
+|23
+|
+|{{lang|zh-Hant|鬦、鬧、鬨}}
+|----
+|style="text-align:right"|[[Radical 192|192]]
+|'''<big>{{lang|zh-Hant|鬯}}</big>'''
+|10
+|sacrificial wine
+|chàng
+|sưởng
+|{{lang|ja|ちょう}} / chō
+|{{lang|ko|울창주창}} / ulchangjuchang
+|8
+|
+|{{lang|zh-Hant|鬰、鬱}}
+|----
+|style="text-align:right"|[[Radical 193|193]]
+|'''<big>{{lang|zh-Hant|鬲}}</big>'''
+|10
+|cauldron
+|lì
+|cách
+|{{lang|ja|かなえ}} / kanae
+|{{lang|ko|다리굽은솥력}} / darigubeunsotryeok
+|73
+|
+|{{lang|zh-Hant|鬳、鬴、鬵}}
+|----
+|style="text-align:right"|[[Radical 194|194]]
+|'''<big>{{lang|zh-Hant|鬼}}</big>'''
+|10
+|ghost
+|guǐ
+|quỷ
+|{{lang|ja|おに}} / oni
+|{{lang|ko|귀신귀}} / gwisingwi
+|141
+|
+|{{lang|zh-Hant|鬾、魁、魂}}
+|----
+|style="text-align:right"|[[Radical 195|195]]
+|'''<big>{{lang|zh-Hant|魚}}</big>'''
+|11
+|fish
+|yú
+|ngư
+|{{lang|ja|うお}} / uo
+|{{lang|ko|물고기어}} / mulgogieo
+|571
+|{{lang|zh-Hans|鱼}}
+|{{lang|zh-Hant|魟、魠、魦}}
+|----
+|style="text-align:right"|[[Radical 196|196]]
+|'''<big>{{lang|zh-Hant|鳥}}</big>'''
+|11
+|bird
+|niǎo
+|điểu
+|{{lang|ja|とり}} / tori
+|{{lang|ko|새조}} / saejo
+|750
+|{{lang|zh-Hans|鸟}}
+|{{lang|zh-Hant|鳦、鳧、鳩}}
+|----
+|style="text-align:right"|[[Radical 197|197]]
+|'''<big>{{lang|zh-Hant|鹵}}</big>'''
+|11
+|salt
+|lǔ
+|lỗ
+|{{lang|ja|ろ}} / ro
+|{{lang|ko|짠땅로}} / jjanddangro
+|44
+|{{lang|zh-Hans|卤}}
+|{{lang|zh-Hant|鹹、鹺、鹼}}
+|----
+|style="text-align:right"|[[Radical 198|198]]
+|'''<big>{{lang|zh-Hant|鹿}}</big>'''
+|11
+|deer
+|lù
+|lộc
+|{{lang|ja|しか}} / shika
+|{{lang|ko|사슴록}} / saseumrok
+|104
+|
+|{{lang|zh-Hant|麀、麁、麂}}
+|----
+|style="text-align:right"|[[Radical 199|199]]
+|'''<big>{{lang|zh-Hant|麥}}</big>'''
+|11
+|wheat
+|mài
+|mạch
+|{{lang|ja|むぎ}} / mugi
+|{{lang|ko|보리맥}} / borimaek
+|131
+|{{lang|zh-Hans|麦}}
+|{{lang|zh-Hant|麨、麩、麪}}
+|----
+|style="text-align:right"|[[Radical 200|200]]
+|'''<big>{{lang|zh-Hant|麻}}</big>'''
+|11
+|hemp
+|má
+|ma
+|{{lang|ja|あさ}} / asa
+|{{lang|ko|삼마}} / samma
+|34
+|
+|{{lang|zh-Hant|麼、麾、黁}}
+|----
+|style="text-align:right"|[[Radical 201|201]]
+|'''<big>{{lang|zh-Hant|黃}}</big>'''
+|12
+|yellow
+|huáng
+|hoàng
+|{{lang|ja|きいろ}} / kiiro
+|{{lang|ko|누를황}} / nureulhwang
+|42
+|{{lang|zh-Hans|黄}}
+|{{lang|zh-Hant|黈、䵍、黌}}
+|----
+|style="text-align:right"|[[Radical 202|202]]
+|'''<big>{{lang|zh-Hant|黍}}</big>'''
+|12
+|millet
+|shǔ
+|thử
+|{{lang|ja|きび}} / kibi
+|{{lang|ko|기장서}} / gijangseo
+|46
+|
+|{{lang|zh-Hant|黎、黏、黐}}
+|----
+|style="text-align:right"|[[Radical 203|203]]
+|'''<big>{{lang|zh-Hant|黑}}</big>'''
+|12
+|black
+|hēi
+|hắc
+|{{lang|ja|くろ}} / kuro
+|{{lang|ko|검을흑}} / geomeulheuk
+|172
+|
+|{{lang|zh-Hant|墨、黓、黔}}
+|----
+|style="text-align:right"|[[Radical 204|204]]
+|'''<big>{{lang|zh-Hant|黹}}</big>'''
+|12
+|embroidery
+|zhǐ
+|chỉ
+|{{lang|ja|ふつ}} / futsu
+|{{lang|ko|바느질할치}} / baneujilhalchi
+|8
+|
+|{{lang|zh-Hant|黺、黻、黼}}
+|----
+|style="text-align:right"|[[Radical 205|205]]
+|'''<big>{{lang|zh-Hant|黽}}</big>'''
+|13
+|frog
+|mǐn
+|mãnh
+|{{lang|ja|べん}} / ben
+|{{lang|ko|맹꽁이}} / maengkkongi
+|40
+|{{lang|zh-Hans|黾}}
+|{{lang|zh-Hant|黿、鼀、鼁}}
+|----
+|style="text-align:right"|[[Radical 206|206]]
+|'''<big>{{lang|zh-Hant|鼎}}</big>'''
+|13
+|tripod
+|dǐng
+|đỉnh
+|{{lang|ja|かなえ}} / kanae
+|{{lang|ko|솥정}} / sotjeong
+|14
+|
+|{{lang|zh-Hant|鼏、鼐、鼒}}
+|----
+|style="text-align:right"|[[Radical 207|207]]
+|'''<big>{{lang|zh-Hant|鼓}}</big>'''
+|13
+|drum
+|gǔ
+|cổ
+|{{lang|ja|つづみ}} / tsudzumi
+|{{lang|ko|북고}} / bukgo
+|46
+|
+|{{lang|zh-Hant|鼕、鼖、鼗}}
+|----
+|style="text-align:right"|[[Radical 208|208]]
+|'''<big>{{lang|zh-Hant|鼠}}</big>'''
+|13
+|rat
+|shǔ
+|thử
+|{{lang|ja|ねずみ}} / nezumi
+|{{lang|ko|쥐서}} / jwiseo
+|92
+|
+|{{lang|zh-Hant|鼢、鼥、鼩}}
+|----
+|style="text-align:right"|[[Radical 209|209]]
+|'''<big>{{lang|zh-Hant|鼻}}</big>'''
+|14
+|nose
+|bí
+|tị
+|{{lang|ja|はな}} / hana
+|{{lang|ko|코비}} / kobi
+|49
+|
+|{{lang|zh-Hant|鼽、鼾、齁}}
+|----
+|style="text-align:right"|[[Radical 210|210]]
+|'''<big>{{lang|zh-Hant|齊}}<br/>({{lang|zh|斉}})</big>'''
+|14
+|even
+|qí
+|tề
+|{{lang|ja|せい}} / sei
+|{{lang|ko|가지런할제}} / gajireonhalje
+|18
+|{{lang|zh-Hans|齐}}
+|{{lang|zh-Hant|齋、齌、齍}}
+|----
+|style="text-align:right"|[[Radical 211|211]]
+|'''<big>{{lang|zh-Hant|齒}}</big>'''
+|15
+|tooth
+|chǐ
+|xỉ
+|{{lang|ja|は}} / ha
+|{{lang|ko|이치}} / ichi
+|162
+|{{lang|zh-Hans|齿}}
+|{{lang|zh-Hant|齔、齕、齖}}
+|----
+|style="text-align:right"|[[Radical 212|212]]
+|'''<big>{{lang|zh-Hant|龍}}</big>'''
+|16
+|dragon
+|lóng
+|long
+|{{lang|ja|りゅう}} / ryū
+|{{lang|ko|용룡}} / yongryong
+|14
+|{{lang|zh-Hans|龙}}
+|{{lang|zh-Hant|龏、龑、龔}}
+|----
+|style="text-align:right"|[[Radical 213|213]]
+|'''<big>{{lang|zh-Hant|龜}}</big>'''
+|16
+|turtle
+|guī
+|quy
+|{{lang|ja|かめ}} / kame
+|{{lang|ko|거북귀}} / geobukgwi
+|24
+|{{lang|zh-Hans|龟}}
+|{{lang|zh-Hant|䶰、龝、龞}}
+|----
+|style="text-align:right"|[[Radical 214|214]]
+|'''<big>{{lang|zh-Hant|龠}}</big>'''
+|17
+|flute
+|yuè
+|dược
+|{{lang|ja|やく}} / yaku
+|{{lang|ko|피리약}} / piriyak
+|19
+|
+|{{lang|zh-Hant|龡、龢、龤}}
+|}
