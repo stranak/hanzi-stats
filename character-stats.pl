@@ -293,7 +293,7 @@ my ( @sorted_types, @sorted_tokens );
 @sorted_types = sort { $freq{$b} <=> $freq{$a} } keys %freq; # sort by frequency
 
 # Table header
-say "Character attributes, sorted by character frequency";
+#say "Character attributes, sorted by character frequency";
 say
   "Character\t",
   "Radical\t",
