@@ -273,9 +273,14 @@ foreach my $textchar ( keys %$characters ) {
 
     # Number of pronounciations
     my $prons = $uh->Mandarin("$textchar");
+
+    # write out pronounciations
+    # $characters->{$textchar}->{'prons'} =$prons;
+    
+    # just a nr. of readings
     my @prons = split / /, $prons;
     $characters->{$textchar}->{'prons'} =
-      scalar @prons;    # just a nr. of readings
+      scalar @prons;    
 }
 
 # count average strokes
